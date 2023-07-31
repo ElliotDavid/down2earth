@@ -1,13 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .logo {
     width: 140px;
 }
 
 footer {
-    background-color: lightgray;
+    background-color: #B9A4F2;
     margin: 0px;
 }
 
-.buttonPrim {
-    background-color: aqua;
+.colorButton {
+    background-color: #2608a1;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #090921;
+}
+
+nav ul {
+    list-style: none;
+
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+li a {
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+main {
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #090921;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #090921;
+    
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #090921;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2608a1;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.colorButton:hover {
+    background-color: #643AD3;
     color: white;
 }
