@@ -1,18 +1,15 @@
 .logo {
-    width: 10rem;
+  width: 140px;
 }
 
-.fuentes {
-    font-size: 1rem;
-    padding-left: 2rem;
+footer {
+  background-color: lightgray;
+  margin: 0px;
 }
 
-.colorBtn {
-    background-color: blueviolet;
-    color: white;
+.buttonPrim {
+  background-color: aqua;
+  color: white;
 }
 
-.colorBtn:hover {
-    background-color: blue;
-    color: white;
-}
+/*# sourceMappingURL=estilo.css.map */
