@@ -8,8 +8,7 @@
 }
 
 footer {
-  background-color: #B9A4F2;
-  margin: 0px;
+  background-color: #d6c9f8;
 }
 
 .colorButton {
@@ -79,4 +78,49 @@ a {
   color: white;
 }
 
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btnFormulario {
+  background-color: #2608a1;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #090921;
+}
+
+.campos {
+  display: block;
+  padding: 10px;
+  color: gray;
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: lightgray;
+}
+
+.btnFormulario:hover {
+  background-color: #643AD3;
+}
+
+.pasosNumeros {
+  width: 40px;
+}
 /*# sourceMappingURL=estilo.css.map */
